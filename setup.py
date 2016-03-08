@@ -34,6 +34,7 @@ setup(
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
     ],
     install_requires=[
+        "Django>=1.9,<1.10",
         "wagtail>=1.3.1",
     ],
 )
